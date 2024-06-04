@@ -1,0 +1,5 @@
+9. 최솟값 구하기
+
+(1). 코드
+
+SELECT MIN(DATETIME) "시간" FROM ANIMAL_INS
