@@ -1,4 +1,0 @@
-5. 동물 수 구하기
-
-(1). 코드
-SELECT COUNT(*) count FROM ANIMAL_INS
