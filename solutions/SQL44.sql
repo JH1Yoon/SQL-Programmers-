@@ -1,0 +1,7 @@
+-- 44. 가격대 별 상품 개수 구하기
+
+SELECT TRUNCATE(PRICE, -4) PRICE_GROUP,
+            COUNT(1)
+FROM PRODUCT
+GROUP BY 1
+ORDER BY 1
