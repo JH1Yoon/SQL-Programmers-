@@ -1,2 +1,9 @@
 -- 59. 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기
 
+SELECT CAR_ID, CASE WHEN SUM(
+                    CASE WHEN '2022-10-16' BETWEEN START_DATE AND END_DATE THEN 1 ELSE 0 END) THEN '대여중'
+                ELSE '대여 가능'
+                END 'AVAILABILITY'
+FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+GROUP BY 1
+ORDER BY 1 DESC;
