@@ -1,0 +1,8 @@
+-- 65. 우유와 요거트가 담긴 장바구니Summer/Winter Coding(2019)
+
+SELECT CART_ID
+FROM CART_PRODUCTS
+WHERE NAME IN ("Milk", "Yogurt")
+GROUP BY CART_ID
+HAVING COUNT(DISTINCT NAME) = 2
+ORDER BY 1
