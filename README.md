@@ -80,6 +80,6 @@
 |76|상품을 구매한 회원 비율 구하기|DISTINCT|
 |77|1757. Recyclable and Low Fat Products|WHERE|
 |78|584. Find Customer Referee|WHERE|
-|79|테스트2|테스트3|
+|79|595. Big Countries|WHERE|
 |80|테스트2|테스트3|
 |81|테스트2|테스트3|
