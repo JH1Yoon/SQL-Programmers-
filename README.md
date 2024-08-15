@@ -82,6 +82,7 @@
 |78|584. Find Customer Referee|WHERE|
 |79|595. Big Countries|WHERE|
 |80|1148. Article Views I|GROUP BY|
+|81|1683. Invalid Tweets|LENGTH|
 |82|테스트2|테스트3|
 |83|테스트2|테스트3|
 |84|테스트2|테스트3|
