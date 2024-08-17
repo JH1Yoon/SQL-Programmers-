@@ -84,7 +84,7 @@
 |80|1148. Article Views I|GROUP BY|
 |81|1683. Invalid Tweets|LENGTH|
 |82|1378. Replace Employee ID With The Unique Identifier|LEFT JOIN|
-|83|테스트2|테스트3|
+|83|1068. Product Sales Analysis I|JOIN|
 |84|테스트2|테스트3|
 |85|테스트2|테스트3|
 |86|테스트2|테스트3|
