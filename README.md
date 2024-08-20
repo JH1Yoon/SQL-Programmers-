@@ -87,7 +87,7 @@
 |83|1068. Product Sales Analysis I|JOIN|
 |84|1581. Customer Who Visited but Did Not Make Any Transactions|LEFT JOIN|
 |85|197. Rising Temperature|DATEDIFF|
-|86|테스트2|테스트3|
+|86|1661. Average Time of Process per Machine|JOIN|
 |87|테스트2|테스트3|
 |88|테스트2|테스트3|
 |89|테스트2|테스트3|
