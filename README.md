@@ -89,6 +89,6 @@
 |85|197. Rising Temperature|DATEDIFF|
 |86|1661. Average Time of Process per Machine|JOIN|
 |87|577. Employee Bonus|LEFT JOIN|
-|88|테스트2|테스트3|
+|88|1280. Students and Examinations|CROSS JOIN|
 |89|테스트2|테스트3|
 |90|테스트2|테스트3|
