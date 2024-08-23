@@ -90,5 +90,5 @@
 |86|1661. Average Time of Process per Machine|JOIN|
 |87|577. Employee Bonus|LEFT JOIN|
 |88|1280. Students and Examinations|CROSS JOIN|
-|89|테스트2|테스트3|
+|89|570. Managers with at Least 5 Direct Reports|INNER JOIN|
 |90|테스트2|테스트3|
