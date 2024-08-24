@@ -91,4 +91,14 @@
 |87|577. Employee Bonus|LEFT JOIN|
 |88|1280. Students and Examinations|CROSS JOIN|
 |89|570. Managers with at Least 5 Direct Reports|INNER JOIN|
-|90|테스트2|테스트3|
+|90|1934. Confirmation Rate|LEFT JOIN|
+|91|테스트2|테스트3|
+|92|테스트2|테스트3|
+|93|테스트2|테스트3|
+|94|테스트2|테스트3|
+|95|테스트2|테스트3|
+|96|테스트2|테스트3|
+|97|테스트2|테스트3|
+|98|테스트2|테스트3|
+|99|테스트2|테스트3|
+|100|테스트2|테스트3|
