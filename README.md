@@ -93,7 +93,7 @@
 |89|570. Managers with at Least 5 Direct Reports|INNER JOIN|
 |90|1934. Confirmation Rate|LEFT JOIN|
 |91|620. Not Boring Movies|MOD|
-|92|테스트2|테스트3|
+|92|1251. Average Selling Price|LEFT JOIN|
 |93|테스트2|테스트3|
 |94|테스트2|테스트3|
 |95|테스트2|테스트3|
