@@ -95,7 +95,7 @@
 |91|620. Not Boring Movies|MOD|
 |92|1251. Average Selling Price|LEFT JOIN|
 |93|1075. Project Employees I|LEFT JOIN|
-|94|테스트2|테스트3|
+|94|1633. Percentage of Users Attended a Contest|Subquery|
 |95|테스트2|테스트3|
 |96|테스트2|테스트3|
 |97|테스트2|테스트3|
