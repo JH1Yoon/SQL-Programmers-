@@ -96,7 +96,7 @@
 |92|1251. Average Selling Price|LEFT JOIN|
 |93|1075. Project Employees I|LEFT JOIN|
 |94|1633. Percentage of Users Attended a Contest|Subquery|
-|95|테스트2|테스트3|
+|95|1211. Queries Quality and Percentage|ROUND, AVG|
 |96|테스트2|테스트3|
 |97|테스트2|테스트3|
 |98|테스트2|테스트3|
