@@ -97,7 +97,7 @@
 |93|1075. Project Employees I|LEFT JOIN|
 |94|1633. Percentage of Users Attended a Contest|Subquery|
 |95|1211. Queries Quality and Percentage|ROUND, AVG|
-|96|테스트2|테스트3|
+|96|1193. Monthly Transactions I|DATE_FORMAT|
 |97|테스트2|테스트3|
 |98|테스트2|테스트3|
 |99|테스트2|테스트3|
