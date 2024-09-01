@@ -99,6 +99,6 @@
 |95|1211. Queries Quality and Percentage|ROUND, AVG|
 |96|1193. Monthly Transactions I|DATE_FORMAT|
 |97|1174. Immediate Food Delivery II|IN|
-|98|테스트2|테스트3|
+|98|550. Game Play Analysis IV|DATE_SUB|
 |99|테스트2|테스트3|
 |100|테스트2|테스트3|
