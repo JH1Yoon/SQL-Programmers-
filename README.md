@@ -100,5 +100,5 @@
 |96|1193. Monthly Transactions I|DATE_FORMAT|
 |97|1174. Immediate Food Delivery II|IN|
 |98|550. Game Play Analysis IV|DATE_SUB|
-|99|테스트2|테스트3|
+|99|2356. Number of Unique Subjects Taught by Each Teacher|DISTINCT|
 |100|테스트2|테스트3|
