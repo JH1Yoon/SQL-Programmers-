@@ -101,4 +101,16 @@
 |97|1174. Immediate Food Delivery II|IN|
 |98|550. Game Play Analysis IV|DATE_SUB|
 |99|2356. Number of Unique Subjects Taught by Each Teacher|DISTINCT|
-|100|테스트2|테스트3|
+|100|1141. User Activity for the Past 30 Days I|DISTINCT|
+|101|테스트2|테스트3|
+|102|테스트2|테스트3|
+|103|테스트2|테스트3|
+|104|테스트2|테스트3|
+|105|테스트2|테스트3|
+|106|테스트2|테스트3|
+|107|테스트2|테스트3|
+|108|테스트2|테스트3|
+|109|테스트2|테스트3|
+|110|테스트2|테스트3|
+|111|테스트2|테스트3|
+|112|테스트2|테스트3|
