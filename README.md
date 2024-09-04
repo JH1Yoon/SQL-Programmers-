@@ -102,7 +102,7 @@
 |98|550. Game Play Analysis IV|DATE_SUB|
 |99|2356. Number of Unique Subjects Taught by Each Teacher|DISTINCT|
 |100|1141. User Activity for the Past 30 Days I|DISTINCT|
-|101|테스트2|테스트3|
+|101|1070. Product Sales Analysis III|IN|
 |102|테스트2|테스트3|
 |103|테스트2|테스트3|
 |104|테스트2|테스트3|
