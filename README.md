@@ -103,7 +103,7 @@
 |99|2356. Number of Unique Subjects Taught by Each Teacher|DISTINCT|
 |100|1141. User Activity for the Past 30 Days I|DISTINCT|
 |101|1070. Product Sales Analysis III|IN|
-|102|테스트2|테스트3|
+|102|596. Classes More Than 5 Students|GROUP BY|
 |103|테스트2|테스트3|
 |104|테스트2|테스트3|
 |105|테스트2|테스트3|
