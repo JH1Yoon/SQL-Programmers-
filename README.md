@@ -105,7 +105,7 @@
 |101|1070. Product Sales Analysis III|IN|
 |102|596. Classes More Than 5 Students|GROUP BY|
 |103|1729. Find Followers Count|GROUP BY|
-|104|테스트2|테스트3|
+|104|619. Biggest Single Number|Subquery|
 |105|테스트2|테스트3|
 |106|테스트2|테스트3|
 |107|테스트2|테스트3|
