@@ -106,7 +106,7 @@
 |102|596. Classes More Than 5 Students|GROUP BY|
 |103|1729. Find Followers Count|GROUP BY|
 |104|619. Biggest Single Number|Subquery|
-|105|테스트2|테스트3|
+|105|1045. Customers Who Bought All Products|DISTINCT|
 |106|테스트2|테스트3|
 |107|테스트2|테스트3|
 |108|테스트2|테스트3|
