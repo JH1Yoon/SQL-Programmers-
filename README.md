@@ -107,7 +107,7 @@
 |103|1729. Find Followers Count|GROUP BY|
 |104|619. Biggest Single Number|Subquery|
 |105|1045. Customers Who Bought All Products|DISTINCT|
-|106|테스트2|테스트3|
+|106|1731. The Number of Employees Which Report to Each Employee|INNER JOIN|
 |107|테스트2|테스트3|
 |108|테스트2|테스트3|
 |109|테스트2|테스트3|
