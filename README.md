@@ -108,7 +108,7 @@
 |104|619. Biggest Single Number|Subquery|
 |105|1045. Customers Who Bought All Products|DISTINCT|
 |106|1731. The Number of Employees Which Report to Each Employee|INNER JOIN|
-|107|테스트2|테스트3|
+|107|1789. Primary Department for Each Employee|IN|
 |108|테스트2|테스트3|
 |109|테스트2|테스트3|
 |110|테스트2|테스트3|
