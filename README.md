@@ -109,7 +109,7 @@
 |105|1045. Customers Who Bought All Products|DISTINCT|
 |106|1731. The Number of Employees Which Report to Each Employee|INNER JOIN|
 |107|1789. Primary Department for Each Employee|IN|
-|108|테스트2|테스트3|
+|108|610. Triangle Judgement|WHEN|
 |109|테스트2|테스트3|
 |110|테스트2|테스트3|
 |111|테스트2|테스트3|
