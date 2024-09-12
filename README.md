@@ -110,7 +110,15 @@
 |106|1731. The Number of Employees Which Report to Each Employee|INNER JOIN|
 |107|1789. Primary Department for Each Employee|IN|
 |108|610. Triangle Judgement|WHEN|
-|109|테스트2|테스트3|
+|109|180. Consecutive Numbers|Subquery|
 |110|테스트2|테스트3|
 |111|테스트2|테스트3|
 |112|테스트2|테스트3|
+|113|테스트2|테스트3|
+|114|테스트2|테스트3|
+|115|테스트2|테스트3|
+|116|테스트2|테스트3|
+|117|테스트2|테스트3|
+|118|테스트2|테스트3|
+|119|테스트2|테스트3|
+
