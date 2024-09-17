@@ -115,7 +115,7 @@
 |111|1204. Last Person to Fit in the Bus|SUM|
 |112|1907. Count Salary Categories|UNION|
 |113|1978. Employees Whose Manager Left the Company|LEFT JOIN|
-|114|테스트2|테스트3|
+|114|626. Exchange Seats|IF|
 |115|테스트2|테스트3|
 |116|테스트2|테스트3|
 |117|테스트2|테스트3|
