@@ -118,7 +118,7 @@
 |114|626. Exchange Seats|IF|
 |115|1341. Movie Rating|UNION ALL|
 |116|1321. Restaurant Growth|ROUND|
-|117|테스트2|테스트3|
+|117|602. Friend Requests II: Who Has the Most Friends|UNION ALL|
 |118|테스트2|테스트3|
 |119|테스트2|테스트3|
 
