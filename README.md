@@ -120,5 +120,8 @@
 |116|1321. Restaurant Growth|ROUND|
 |117|602. Friend Requests II: Who Has the Most Friends|UNION ALL|
 |118|585. Investments in 2016|ROUND, IN|
-|119|테스트2|테스트3|
-
+|119|185. Department Top Three Salaries|WHERE|
+|120|테스트2|테스트3|
+|121|테스트2|테스트3|
+|122|테스트2|테스트3|
+|123|테스트2|테스트3|
