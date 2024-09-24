@@ -122,6 +122,6 @@
 |118|585. Investments in 2016|ROUND, IN|
 |119|185. Department Top Three Salaries|WHERE|
 |120|1667. Fix Names in a Table|CONCAT|
-|121|테스트2|테스트3|
+|121|1527. Patients With a Condition|LIKE|
 |122|테스트2|테스트3|
 |123|테스트2|테스트3|
