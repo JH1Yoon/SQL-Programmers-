@@ -124,4 +124,5 @@
 |120|1667. Fix Names in a Table|CONCAT|
 |121|1527. Patients With a Condition|LIKE|
 |122|196. Delete Duplicate Emails|DELETE|
-|123|176. Second Highest Salary테스트2|Subquery|
+|123|176. Second Highest Salary|Subquery|
+|124|176. Second Highest Salary|Subquery|
