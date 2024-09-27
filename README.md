@@ -125,4 +125,4 @@
 |121|1527. Patients With a Condition|LIKE|
 |122|196. Delete Duplicate Emails|DELETE|
 |123|176. Second Highest Salary|Subquery|
-|124|176. Second Highest Salary|Subquery|
+|124|1484. Group Sold Products By The Date|GROUP_CONCAT|
