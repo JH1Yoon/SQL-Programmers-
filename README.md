@@ -127,7 +127,7 @@
 |123|176. Second Highest Salary|Subquery|
 |124|1484. Group Sold Products By The Date|GROUP_CONCAT|
 |125|1327. List the Products Ordered in a Period|GROUP BY|
-|126|테스트|테스트|
+|126|1517. Find Users With Valid E-Mails|WHERE|
 |127|테스트|테스트|
 |128|테스트|테스트|
 |129|테스트|테스트|
