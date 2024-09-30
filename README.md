@@ -129,7 +129,7 @@
 |125|1327. List the Products Ordered in a Period|GROUP BY|
 |126|1517. Find Users With Valid E-Mails|WHERE|
 |127|Revising the Select Query I|WHERE|
-|128|테스트|테스트|
+|128|Revising the Select Query II|WHERE|
 |129|테스트|테스트|
 |130|테스트|테스트|
 |131|테스트|테스트|
