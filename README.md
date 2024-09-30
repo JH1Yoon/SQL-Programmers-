@@ -128,7 +128,7 @@
 |124|1484. Group Sold Products By The Date|GROUP_CONCAT|
 |125|1327. List the Products Ordered in a Period|GROUP BY|
 |126|1517. Find Users With Valid E-Mails|WHERE|
-|127|테스트|테스트|
+|127|Revising the Select Query I|WHERE|
 |128|테스트|테스트|
 |129|테스트|테스트|
 |130|테스트|테스트|
