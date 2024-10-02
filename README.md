@@ -130,7 +130,7 @@
 |126|1517. Find Users With Valid E-Mails|WHERE|
 |127|Revising the Select Query I|WHERE|
 |128|Revising the Select Query II|WHERE|
-|129|테스트|테스트|
+|129|Select All|*|
 |130|테스트|테스트|
 |131|테스트|테스트|
 |132|테스트|테스트|
