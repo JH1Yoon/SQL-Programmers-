@@ -132,6 +132,6 @@
 |128|Revising the Select Query II|WHERE|
 |129|Select All|*|
 |130|Select By ID|WHERE|
-|131|테스트|테스트|
+|131|Japanese Cities' Attributes|WHERE|
 |132|테스트|테스트|
 |133|테스트|테스트|
