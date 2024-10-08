@@ -136,7 +136,7 @@
 | 132 |Japanese Cities' Names| WHERE        |
 | 133 |Weather Observation Station 1| SELECT       |
 | 134 |Weather Observation Station 2| ROUND          |
-| 135 |테스트| 테스트          |
+| 135 |Weather Observation Station 3| MOD          |
 | 136 |테스트| 테스트          |
 | 137 |테스트| 테스트          |
 | 138 |테스트| 테스트          |
