@@ -138,5 +138,5 @@
 | 134 |Weather Observation Station 2| ROUND          |
 | 135 |Weather Observation Station 3| MOD          |
 | 136 |Weather Observation Station 4| COUNT          |
-| 137 |테스트| 테스트          |
+| 137 |Weather Observation Station 5| WHERE          |
 | 138 |테스트| 테스트          |
