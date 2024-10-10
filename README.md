@@ -139,4 +139,19 @@
 | 135 |Weather Observation Station 3| MOD          |
 | 136 |Weather Observation Station 4| COUNT          |
 | 137 |Weather Observation Station 5| WHERE          |
-| 138 |테스트| 테스트          |
+| 138 |Weather Observation Station 6| LIKE          |
+| 139 |테스트| 테스트          |
+| 140 |테스트| 테스트          |
+| 141 |테스트| 테스트          |
+| 142 |테스트| 테스트          |
+| 143 |테스트| 테스트          |
+| 144 |테스트| 테스트          |
+| 145 |테스트| 테스트          |
+| 146 |테스트| 테스트          |
+| 147 |테스트| 테스트          |
+| 148 |테스트| 테스트          |
+| 149 |테스트| 테스트          |
+
+
+
+
