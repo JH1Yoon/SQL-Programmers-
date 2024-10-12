@@ -135,12 +135,12 @@
 | 131 |Japanese Cities' Attributes| WHERE        |
 | 132 |Japanese Cities' Names| WHERE        |
 | 133 |Weather Observation Station 1| SELECT       |
-| 134 |Weather Observation Station 2| ROUND          |
+| 134 |Weather Observation Station 2| ROUND        |
 | 135 |Weather Observation Station 3| MOD          |
-| 136 |Weather Observation Station 4| COUNT          |
-| 137 |Weather Observation Station 5| WHERE          |
-| 138 |Weather Observation Station 6| LIKE          |
-| 139 |테스트| 테스트          |
+| 136 |Weather Observation Station 4| COUNT        |
+| 137 |Weather Observation Station 5| WHERE        |
+| 138 |Weather Observation Station 6| LIKE         |
+| 139 |Weather Observation Station 7| LIKE         |
 | 140 |테스트| 테스트          |
 | 141 |테스트| 테스트          |
 | 142 |테스트| 테스트          |
