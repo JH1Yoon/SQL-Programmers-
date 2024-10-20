@@ -141,9 +141,9 @@
 | 137 |Weather Observation Station 5| WHERE        |
 | 138 |Weather Observation Station 6| LIKE         |
 | 139 |Weather Observation Station 7| LIKE         |
-| 140 |Weather Observation Station 8| SUBSTRING          |
+| 140 |Weather Observation Station 8| SUBSTRING    |
 | 141 |Weather Observation Station 9| NOT          |
-| 142 |테스트| 테스트          |
+| 142 |Weather Observation Station 10| NOT          |
 | 143 |테스트| 테스트          |
 | 144 |테스트| 테스트          |
 | 145 |테스트| 테스트          |
