@@ -144,7 +144,7 @@
 | 140 |Weather Observation Station 8| SUBSTRING    |
 | 141 |Weather Observation Station 9| NOT          |
 | 142 |Weather Observation Station 10| NOT          |
-| 143 |테스트| 테스트          |
+| 143 |Weather Observation Station 11| NOT, OR      |
 | 144 |테스트| 테스트          |
 | 145 |테스트| 테스트          |
 | 146 |테스트| 테스트          |
