@@ -146,7 +146,7 @@
 | 142 |Weather Observation Station 10| NOT          |
 | 143 |Weather Observation Station 11| NOT, OR      |
 | 144 |Weather Observation Station 12| NOT, AND     |
-| 145 |테스트| 테스트          |
+| 145 |Higher Than 75 Marks| RIGHT, WHERE |
 | 146 |테스트| 테스트          |
 | 147 |테스트| 테스트          |
 | 148 |테스트| 테스트          |
