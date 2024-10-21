@@ -149,8 +149,18 @@
 | 145 |Higher Than 75 Marks| RIGHT, WHERE    |
 | 146 |Employee Names| ORDER BY        |
 | 147 |Employee Salaries| WHERE, ORDER BY |
-| 148 |테스트| 테스트             |
+| 148 |Type of Triangle| CASE, WHEN      |
 | 149 |테스트| 테스트             |
+| 150 |테스트| 테스트             |
+| 151 |테스트| 테스트             |
+| 152 |테스트| 테스트             |
+| 153 |테스트| 테스트             |
+| 154 |테스트| 테스트             |
+| 155 |테스트| 테스트             |
+| 156 |테스트| 테스트             |
+| 157 |테스트| 테스트             |
+| 158 |테스트| 테스트             |
+| 159 |테스트| 테스트             |
 
 
 
