@@ -150,7 +150,7 @@
 | 146 |Employee Names| ORDER BY        |
 | 147 |Employee Salaries| WHERE, ORDER BY |
 | 148 |Type of Triangle| CASE, WHEN      |
-| 149 |테스트| 테스트             |
+| 149 |The PADS| CONCAT             |
 | 150 |테스트| 테스트             |
 | 151 |테스트| 테스트             |
 | 152 |테스트| 테스트             |
