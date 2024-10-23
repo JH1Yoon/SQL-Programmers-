@@ -151,7 +151,7 @@
 | 147 |Employee Salaries| WHERE, ORDER BY |
 | 148 |Type of Triangle| CASE, WHEN      |
 | 149 |The PADS| CONCAT             |
-| 150 |테스트| 테스트             |
+| 150 |Revising Aggregations - The Count Function| WHERE             |
 | 151 |테스트| 테스트             |
 | 152 |테스트| 테스트             |
 | 153 |테스트| 테스트             |
