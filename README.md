@@ -150,9 +150,9 @@
 | 146 |Employee Names| ORDER BY        |
 | 147 |Employee Salaries| WHERE, ORDER BY |
 | 148 |Type of Triangle| CASE, WHEN      |
-| 149 |The PADS| CONCAT             |
-| 150 |Revising Aggregations - The Count Function| WHERE             |
-| 151 |테스트| 테스트             |
+| 149 |The PADS| CONCAT          |
+| 150 |Revising Aggregations - The Count Function| WHERE           |
+| 151 |Revising Aggregations - The Sum Function| SUM             |
 | 152 |테스트| 테스트             |
 | 153 |테스트| 테스트             |
 | 154 |테스트| 테스트             |
