@@ -153,7 +153,7 @@
 | 149 |The PADS| CONCAT          |
 | 150 |Revising Aggregations - The Count Function| WHERE           |
 | 151 |Revising Aggregations - The Sum Function| SUM             |
-| 152 |테스트| 테스트             |
+| 152 |Revising Aggregations - Averages| AVG             |
 | 153 |테스트| 테스트             |
 | 154 |테스트| 테스트             |
 | 155 |테스트| 테스트             |
