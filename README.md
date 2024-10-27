@@ -154,7 +154,7 @@
 | 150 |Revising Aggregations - The Count Function| WHERE           |
 | 151 |Revising Aggregations - The Sum Function| SUM             |
 | 152 |Revising Aggregations - Averages| AVG             |
-| 153 |테스트| 테스트             |
+| 153 |Average Population| FLOOR, AVG      |
 | 154 |테스트| 테스트             |
 | 155 |테스트| 테스트             |
 | 156 |테스트| 테스트             |
