@@ -155,7 +155,7 @@
 | 151 |Revising Aggregations - The Sum Function| SUM             |
 | 152 |Revising Aggregations - Averages| AVG             |
 | 153 |Average Population| FLOOR, AVG      |
-| 154 |테스트| 테스트             |
+| 154 |Japan Population| SUM             |
 | 155 |테스트| 테스트             |
 | 156 |테스트| 테스트             |
 | 157 |테스트| 테스트             |
