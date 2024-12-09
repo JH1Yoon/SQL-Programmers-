@@ -1,0 +1,3 @@
+-- 155. Population Density Difference
+
+SELECT MAX(POPULATION) - MIN(POPULATION) AS DIFFERENCE FROM CITY;

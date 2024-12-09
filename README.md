@@ -156,7 +156,7 @@
 | 152 |Revising Aggregations - Averages| AVG             |
 | 153 |Average Population| FLOOR, AVG      |
 | 154 |Japan Population| SUM             |
-| 155 |테스트| 테스트             |
+| 155 |Population Density Difference| MAX, MIN        |
 | 156 |테스트| 테스트             |
 | 157 |테스트| 테스트             |
 | 158 |테스트| 테스트             |
