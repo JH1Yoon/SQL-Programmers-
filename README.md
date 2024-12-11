@@ -158,7 +158,7 @@
 | 154 |Japan Population| SUM                           |
 | 155 |Population Density Difference| MAX, MIN                      |
 | 156 |The Blunder| CEIL, ABS, CAST, REPLACE, AVG |
-| 157 |테스트| 테스트                           |
+| 157 |Top Earners| MAX, COUNT                    |
 | 158 |테스트| 테스트                           |
 | 159 |테스트| 테스트                           |
 
