@@ -159,7 +159,7 @@
 | 155 |Population Density Difference| MAX, MIN                      |
 | 156 |The Blunder| CEIL, ABS, CAST, REPLACE, AVG |
 | 157 |Top Earners| MAX, COUNT                    |
-| 158 |테스트| 테스트                           |
+| 158 |Weather Observation Station 13| TRUNCATE, SUM                 |
 | 159 |테스트| 테스트                           |
 
 
