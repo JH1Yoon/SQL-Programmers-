@@ -160,7 +160,7 @@
 | 156 |The Blunder| CEIL, ABS, CAST, REPLACE, AVG |
 | 157 |Top Earners| MAX, COUNT                    |
 | 158 |Weather Observation Station 13| TRUNCATE, SUM                 |
-| 159 |테스트| 테스트                           |
+| 159 |Weather Observation Station 14| TRUNCATE, MAX                 |
 
 
 
