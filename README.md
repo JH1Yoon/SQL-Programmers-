@@ -161,6 +161,7 @@
 | 157 |Top Earners| MAX, COUNT                    |
 | 158 |Weather Observation Station 13| TRUNCATE, SUM                 |
 | 159 |Weather Observation Station 14| TRUNCATE, MAX                 |
+| 160 |Weather Observation Station 15| ROUND, ORDER BY               |
 
 
 
