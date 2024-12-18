@@ -163,7 +163,8 @@
 | 159 |Weather Observation Station 14| TRUNCATE, MAX                 |
 | 160 |Weather Observation Station 15| ROUND, ORDER BY               |
 | 161 |Weather Observation Station 16| ROUND, MIN                    |
-| 162 |Weather Observation Station 17| ROUND, ORDER BY                    |
+| 162 |Weather Observation Station 17| ROUND, ORDER BY               |
+| 163 |Weather Observation Station 18| ROUND, ABS, MAX, MIN          |
 
 
 
