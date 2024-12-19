@@ -165,6 +165,7 @@
 | 161 |Weather Observation Station 16| ROUND, MIN                    |
 | 162 |Weather Observation Station 17| ROUND, ORDER BY               |
 | 163 |Weather Observation Station 18| ROUND, ABS, MAX, MIN          |
+| 164 |Weather Observation Station 19| ROUND, SQRT, MAX, MIN         |
 
 
 
