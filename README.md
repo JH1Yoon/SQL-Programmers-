@@ -169,6 +169,7 @@
 | 165 |Population Census| SUM, JOIN                     |
 | 166 |African Cities| JOIN                          |
 | 167 |Average Population of Each Continent| JOIN, FLOOR, GROUP BY         |
+| 168 |Binary Tree Nodes| CASE, ORDER BY                  |
 
 
 
