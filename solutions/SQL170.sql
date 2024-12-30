@@ -1,0 +1,6 @@
+-- 170. Weather Observation Station 20
+
+SELECT ROUND(LAT_N,4)
+FROM (SELECT LAT_N, PERCENT_RANK() OVER (ORDER BY LAT_N ASC) percent
+      FROM STATION) A
+WHERE percent=0.5;
