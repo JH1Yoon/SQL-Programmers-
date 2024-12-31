@@ -171,7 +171,8 @@
 | 167 |Average Population of Each Continent| JOIN, FLOOR, GROUP BY          |
 | 168 |Binary Tree Nodes| CASE, ORDER BY                 |
 | 169 |New Companies| JOIN, GROUP BY , ORDER BY      |
-| 170  |Weather Observation Station 20| PERCENT_RANK, ROUND , ORDER BY |
+| 170 |Weather Observation Station 20| PERCENT_RANK, ROUND , ORDER BY |
+| 171 |The Report| CASE, JOIN, ORDER BY           |
 
 
 
