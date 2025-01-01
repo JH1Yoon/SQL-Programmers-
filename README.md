@@ -173,6 +173,7 @@
 | 169 |New Companies| JOIN, GROUP BY , ORDER BY      |
 | 170 |Weather Observation Station 20| PERCENT_RANK, ROUND , ORDER BY |
 | 171 |The Report| CASE, JOIN, ORDER BY           |
+| 172 |Top Competitors| JOIN, GROUP BY, ORDER BY       |
 
 
 
