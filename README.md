@@ -174,7 +174,4 @@
 | 170 |Weather Observation Station 20| PERCENT_RANK, ROUND , ORDER BY |
 | 171 |The Report| CASE, JOIN, ORDER BY           |
 | 172 |Top Competitors| JOIN, GROUP BY, ORDER BY       |
-
-
-
-
+| 173 |Ollivander's Inventory| JOIN, MIN, ORDER BY, Subquery       |
