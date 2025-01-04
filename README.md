@@ -176,3 +176,4 @@
 | 172 |Top Competitors| JOIN, GROUP BY, ORDER BY       |
 | 173 |Ollivander's Inventory| JOIN, MIN, ORDER BY, Subquery       |
 | 174 |Challenges| WITH, JOIN, MAX, COUNT, ORDER BY, GROUP BY       |
+| 175 |Contest Leaderboard| SUM, JOIN, MAX, COUNT, ORDER BY, GROUP BY       |
