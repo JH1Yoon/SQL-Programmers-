@@ -177,3 +177,4 @@
 | 173 |Ollivander's Inventory| JOIN, MIN, ORDER BY, Subquery       |
 | 174 |Challenges| WITH, JOIN, MAX, COUNT, ORDER BY, GROUP BY       |
 | 175 |Contest Leaderboard| SUM, JOIN, MAX, COUNT, ORDER BY, GROUP BY       |
+| 176 |SQL Project Planning| ROW_NUMBER, MIN, MAX, ORDER BY, DATEDIFF       |
