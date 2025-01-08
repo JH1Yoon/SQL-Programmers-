@@ -179,3 +179,4 @@
 | 175 |Contest Leaderboard| SUM, JOIN, MAX, COUNT, ORDER BY, GROUP BY       |
 | 176 |SQL Project Planning| ROW_NUMBER, MIN, MAX, ORDER BY, DATEDIFF       |
 | 177 |Placements| JOIN, ORDER BY       |
+| 178 |Symmetric Pairs| COUNT, JOIN, GROUP BY, ORDER BY       |
