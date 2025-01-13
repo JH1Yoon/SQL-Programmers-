@@ -182,3 +182,4 @@
 | 178 |Symmetric Pairs| COUNT, JOIN, GROUP BY, ORDER BY       |
 | 179 |Interviews| COALESCE, SUM, LEFT JOIN, GROUP BY, ORDER BY       |
 | 180 |15 Days of Learning SQL| COUNT, DATEDIFF, GROUP BY, ORDER BY       |
+| 181 |Draw The Triangle 1| RECURSIVE, UNION ALL, REPEAT      |
