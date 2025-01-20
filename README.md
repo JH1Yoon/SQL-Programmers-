@@ -185,3 +185,4 @@
 | 181 |Draw The Triangle 1| RECURSIVE, UNION ALL, REPEAT      |
 | 182 |Draw The Triangle 2| RECURSIVE, UNION ALL, REPEAT      |
 | 183 |Print Prime Numbers| RECURSIVE, UNION ALL, GROUP_CONCAT      |
+| 184 |Occupations| ROW_NUMBER, MAX, GROUP BY, ORDER BY      |
